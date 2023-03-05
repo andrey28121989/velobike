@@ -245,3 +245,48 @@ p {
   font-size: 14px;
   line-height: 1.2;
 }
+
+.characts {
+  margin-bottom: 153px;
+}
+.characts__header {
+  margin-bottom: 40px;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+  text-transform: uppercase;
+  color: #131313;
+}
+.characts__wrapper {
+  display: flex;
+}
+.characts__items {
+  flex-basis: 570px;
+  margin-right: 60px;
+}
+.characts__list {
+  padding-top: 30px;
+  flex-basis: 285px;
+}
+.characts__list-title {
+  padding: 3px;
+  margin-bottom: 10px;
+  background-color: #131313;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+.characts__data {
+  display: flex;
+  padding-bottom: 5px;
+}
+.characts__name {
+  flex-basis: 285px;
+  padding-right: 15px;
+}
+.characts__descr {
+  flex-basis: 285px;
+}
+.characts__img {
+  align-self: center;
+}
