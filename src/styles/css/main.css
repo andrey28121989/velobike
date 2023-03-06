@@ -290,3 +290,14 @@ p {
 .characts__img {
   align-self: center;
 }
+
+.slider {
+  margin-top: 50px;
+}
+.slider__items {
+  top: 0;
+  left: 0;
+}
+.slider__item {
+  padding-left: 50px;
+}
